@@ -30,7 +30,7 @@ The challenge was tough for me because I am learning web development. I made thi
 ### Links
 
 - Solution URL: [Github](https://github.com/skyv26/social-proof-design)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [Netlify Live](https://social-proof-4.netlify.app/)
 
 ## My process
 
