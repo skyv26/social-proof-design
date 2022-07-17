@@ -66,13 +66,6 @@ const proudOfThisFunc = () => {
 
 I am working on flex grid concepts in order to get quality result.
 
-## Author
-
-- LinkedIn - [Aakash Verma](https://www.linkedin.com/in/devaakash/)
-- Frontend Mentor - [@skyv26](https://www.frontendmentor.io/profile/skyv26)
-- Github - [@skyv26](https://github.com/skyv26)
-
-
 <a name="readme-top"></a>
 
 <!--
