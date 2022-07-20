@@ -37,11 +37,11 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 
 <!-- PROJECT DESCRIPTION -->
 
-# 📖 [your_project_name] <a name="about-project"></a>
+# 📖 Social proof section <a name="about-project"></a>
 
 > Describe your project in 1 or 2 sentences.
 
-**[your_project__name]** is a...
+**Social proof section** is a vanilla css project
 
 ## 🛠 Built With <a name="built-with"></a>
 
