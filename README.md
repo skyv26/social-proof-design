@@ -26,12 +26,6 @@ The challenge was tough for me because I am learning web development. I made thi
 
 ![](./design/aakash-design.png)
 
-
-### Links
-
-- Solution URL: [Github](https://github.com/skyv26/social-proof-design)
-- Live Site URL: [Netlify Live](https://social-proof-4.netlify.app/)
-
 ## My process
 
 ### Built with
