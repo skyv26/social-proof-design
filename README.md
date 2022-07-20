@@ -150,8 +150,6 @@ I am working on flex grid concepts in order to get quality result.
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-> Add a link to your deployed project.
-
 - [Live Project](https://social-proof-4.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
