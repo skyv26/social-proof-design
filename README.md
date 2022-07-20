@@ -7,7 +7,7 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
   <img src="./design/aakash-design.png" alt="logo" width="140"  height="auto" />
   <br/>
 
-  <h3><b>Microverse README Template</b></h3>
+  <h3><b>Social Proof Section</b></h3>
 
 </div>
 
