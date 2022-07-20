@@ -22,10 +22,6 @@ This is a solution to the [Social proof section challenge on Frontend Mentor](ht
 The challenge was tough for me because I am learning web development. I made this design for 375px 1440px 1366px screens.
 - View the optimal layout for the section depending on their device's screen size
 
-### Screenshot
-
-![](./design/aakash-design.png)
-
 ### What I learned
 
 Use this section to recap over some of your major learnings while working through this project. Writing these out and providing code samples of areas you want to highlight is a great way to reinforce your own knowledge.
