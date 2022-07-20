@@ -152,7 +152,7 @@ I am working on flex grid concepts in order to get quality result.
 
 > Add a link to your deployed project.
 
-- [Live Demo Link](https://google.com)
+- [Live Project](https://social-proof-4.netlify.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
