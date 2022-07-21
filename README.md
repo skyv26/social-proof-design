@@ -90,16 +90,14 @@ To do this challenge, you need a basic understanding of HTML, CSS and JavaScript
 
 ### Setup
 
+
 Clone this repository to your desired folder:
 
-<!--
-Example commands:
 
 ```sh
-  cd my-folder
-  git clone git@github.com:myaccount/my-project.git
+  cd DESIRED_FOLDER
+  git clone https://github.com/skyv26/social-proof-design.git
 ```
---->
 
 ### Install
 
