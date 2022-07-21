@@ -35,8 +35,6 @@
 
 # 📖 Social proof section <a name="about-project"></a>
 
-> Describe your project in 1 or 2 sentences.
-
 **Social proof section** is a vanilla css project
 
 ## 🛠 Built With <a name="built-with"></a>
