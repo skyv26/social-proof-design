@@ -99,19 +99,6 @@ Clone this repository to your desired folder:
   git clone https://github.com/skyv26/social-proof-design.git
 ```
 
-### Install
-
-Install this project with:
-
-<!--
-Example command:
-
-```sh
-  cd my-project
-  gem install
-```
---->
-
 ### Usage
 
 ```
