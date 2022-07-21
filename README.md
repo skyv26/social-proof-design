@@ -1,7 +1,3 @@
-# Frontend Mentor - Social proof section solution
-
-This is a solution to the [Social proof section challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/social-proof-section-6e0qTv_bA). Frontend Mentor challenges help you improve your coding skills by building realistic projects. 
-
 <div align="center">
   <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
   <img src="./design/aakash-design.png" alt="logo" width="140"  height="auto" />
