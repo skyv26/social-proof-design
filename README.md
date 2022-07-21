@@ -60,8 +60,6 @@
 
 ### Key Features <a name="key-features"></a>
 
-> Describe between 1-3 key features of the application.
-
 - **Semantic HTML5 markup**
 - **CSS custom properties**
 - **Flexbox**
@@ -81,8 +79,6 @@
 <!-- GETTING STARTED -->
 
 ## 💻 Getting Started <a name="getting-started"></a>
-
-> Describe how a new developer could make use of your project.
 
 To get a local copy up and running, follow these steps.
 
@@ -166,8 +162,6 @@ Example:
 
 ## 👥 Authors <a name="authors"></a>
 
-> Mention all of the collaborators of this project.
-
 👤 **Aakash Verma**
 
 - GitHub: [@skyv26](https://github.com/skyv26)
@@ -180,8 +174,6 @@ Example:
 <!-- FUTURE FEATURES -->
 
 ## 🔭 Future Features <a name="future-features"></a>
-
-> Describe 1 - 3 features you will add to the project.
 
 - [ ] **[new_feature_1]**
 - [ ] **[new_feature_2]**
@@ -203,8 +195,6 @@ Feel free to check the [issues page](../../issues/).
 
 ## ⭐️ Show your support <a name="support"></a>
 
-> Write a message to encourage readers to support your project
-
 If you like this project...
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
@@ -212,8 +202,6 @@ If you like this project...
 <!-- ACKNOWLEDGEMENTS -->
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
-
-> Give credit to everyone who inspired your codebase.
 
 I would like to thank...
 
